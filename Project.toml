@@ -1,0 +1,7 @@
+name = "PollenExample"
+uuid = "0e5b2e24-a9b2-47e1-a420-ed6d510427bc"
+authors = ["lorenzoh <lorenz.ohly@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
