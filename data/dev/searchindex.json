@@ -1,0 +1,1 @@
+{"version":"2.3.9","fields":["title","body"],"fieldVectors":[["title/documents/README.md",[0,0.182]],["body/documents/README.md",[]],["title/references/PollenExample",[0,0.182]],["body/references/PollenExample",[]]],"invertedIndex":[["pollenexampl",{"_index":0,"title":{"documents/README.md":{},"references/PollenExample":{}},"body":{}}]],"pipeline":["stemmer"]}
